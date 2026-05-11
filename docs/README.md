@@ -37,11 +37,11 @@ A browser-based memory card matching game built with HTML, CSS, and JavaScript. 
 
 ```bash
 memory-matching-game/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
+├── src/
+    ├── game-menu/
+    ├── game.html
+    ├── style.css
+    └── index.js
 ```
 
 ---
